@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on TUE 15/12/2020 23:22
-File name: list-example8.py
+File name: list-example9.py
 @author: Abhishek Kumar
 Purpose - Example of Difference in Deletion
 """
